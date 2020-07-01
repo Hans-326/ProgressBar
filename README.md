@@ -1,6 +1,6 @@
 # ProgressBar
 #### vue自定义进度条
-![样图](https://github.com/Hans-326/ProgressBar/blob/master/pic/demo.png)
+![样图](./pic/demo.png)
 ## 使用方法
 ### 在需要使用的vue文件中引入组件
 ```
